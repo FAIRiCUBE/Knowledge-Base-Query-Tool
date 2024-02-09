@@ -19,7 +19,7 @@ Structure of the KB
 Governance of the KB content:
 -------------------------------------------------------------------------------------------
 During the project lifetime:
-- Only EPSIT has write access for web page static content. 
+- EPSIT provides for web page static content. 
 - Regarding the partners’contributions: 
   - Documentation of a/p resources (algorithms, pipelines, preprocessing etc) shall be provided through related a/p metadata. While currently this happens through a dedicated GitHub form, we are now creating a web form for the a/p MD ingestion (this will also be helpful in possible uptake from other projects e.g., easily provide authentication)
   - Other documentation shall be provided opening issues in this repository (e.g., with text and highlights to include in the UCs section, links to own repositories’ documentation etc...)
