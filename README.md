@@ -11,7 +11,8 @@ Users interact with the KB via user interface (can read static content, use the 
 
 Structure of the KB
 -------------------------------------------------------------------------------------------
-![KB structure](https://github.com/FAIRiCUBE/Knowledge-Base/assets/13329248/bc328c76-bd83-4b87-ac8c-679e0d99dcae)
+
+![image](https://github.com/FAIRiCUBE/Knowledge-Base/assets/13329248/f909c7d6-c5e0-45df-be54-b61d34ac0948)
 
 
 
