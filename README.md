@@ -1,6 +1,6 @@
 # FAIRiCUBE Knowledge Base  Query Tool
 
-This repository is intended for sharing our current understanding and getting feedback on the proposed architecture, structure and functionalities of the Knowledge Base (KB) Query Tool as well as related look &amp; feel.  Comments and issues related to the Query Tool shall be provided via issue tracker of this repository
+This repository is intended for sharing current understanding and getting feedback on the proposed architecture, structure and functionalities of the Knowledge Base (KB) Query Tool as well as related look &amp; feel.  Comments and issues related to the Query Tool shall be provided via issue tracker of this repository
 
 Scope
 -------------------------------------------------------------------------------------------
